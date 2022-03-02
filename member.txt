@@ -1,0 +1,6 @@
+Test1 taroh,1,2001 09 09,Osaka Osaka,1212-1212
+Test Taroh,2,1999 09 09,Kyoto Kyoto,fushimi-ku
+Test Test 0303,3,19811212,Okinawa,333-3333
+Kasuga Akemi,4,19711101,Tokyo sumida-ku,888-1238
+Nakata Hide,5,19870303,Hokkaido,112-112
+Taro Yamada,6,1203,Aichi,111-1111
